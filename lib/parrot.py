@@ -1,2 +1,2 @@
 def parrot(string = "Squawk!"):
-    pass
+    print(string)

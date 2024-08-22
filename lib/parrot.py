@@ -1,2 +1,2 @@
-def parrot():
+def parrot(string):
     pass
